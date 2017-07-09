@@ -1,0 +1,14 @@
+{
+  "name": "babyphone",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dev-null": "^0.1.1",
+    "express": "^4.15.3",
+    "howler": "2.0.4",
+    "lame": "^1.2.4",
+    "mic": "ashishbajaj99/mic",
+    "shelljs": "^0.7.8"
+  }
+}
